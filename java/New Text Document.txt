@@ -1,0 +1,2 @@
+api_key = "ZTcyZTk1MTQtNTgzNS00N2Y2LWJlZmUtMTlmMTYzNTUwZDVhOkRCdTU4Yy1jQ0w2TW9LbXYxdE11OWdNY0VocmVsR0ZKNVB1TmlRYXhWOVdpbTFuRmw4czBlRGFJTl9scVlvYVdZY0RDQU5uUW1YbVllSG5DVUJzZVBR"
+api_endpoint = "https://sdkms.fortanix.com/"

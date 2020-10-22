@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.fortanix:sdkms-jce-provider:3.21.1376">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fortanix/sdkms-jce-provider/3.21.1376/sdkms-jce-provider-3.21.1376.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fortanix/sdkms-jce-provider/3.21.1376/sdkms-jce-provider-3.21.1376-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/fortanix/sdkms-jce-provider/3.21.1376/sdkms-jce-provider-3.21.1376-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
